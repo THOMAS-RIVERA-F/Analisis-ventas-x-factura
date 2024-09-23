@@ -1,4 +1,4 @@
-Analisis-ventas-x-factura wiki!
+#Analisis-ventas-x-factura wiki!
 <br>
 En este proyecto analizaremos un dataset dado por las ventas por factura en una tienda del reino unido usando RFM, un método utilizado para analizar el valor del cliente y segmentarlos asi mismo, se utiliza comúnmente en el marketing de bases de datos y el marketing directo.
 
